@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'LogIn.dart';
 import 'Menu.dart';
 import 'package:get/get.dart';
-import 'data.dart';
+import 'hurburger.dart';
 void main() {
-  runApp(Hamburger());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {

@@ -122,13 +122,13 @@ class _HamburgerState extends State<Hamburger> {
                 margin: EdgeInsets.only(top: 30),
                 height: 700,
                 child: ListView(children: [
-                  CardCustom(name: "Phở", Images: "assets/humburger.png", NameText: "12km |", Name_Text: " 4.5 (1.9km)"),
+                  CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "12km |", Name_Text: " 4.5 (1.9km)"),
                   CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "20km |", Name_Text: " 5.0 (2km)"),
-                  CardCustom(name: "Phở", Images: "assets/humburger.png", NameText: "12km |", Name_Text: " 2.5 (3.5km)"),
-                  CardCustom(name: "Phở", Images: "assets/humburger.png", NameText: "19km |", Name_Text: " 4.5 (1.9km)"),
-                  CardCustom(name: "Phở", Images: "assets/humburger.png", NameText: "5km |", Name_Text: " 3.2 (5.6km)"),
-                  CardCustom(name: "Phở", Images: "assets/humburger.png", NameText: "2km |", Name_Text: " 4.5 (1.9km)"),
-                  CardCustom(name: "Phở", Images: "assets/humburger.png", NameText: "12km |", Name_Text: " 4.1 (2.6km)"),
+                  CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "12km |", Name_Text: " 2.5 (3.5km)"),
+                  CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "19km |", Name_Text: " 4.5 (1.9km)"),
+                  CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "5km |", Name_Text: " 3.2 (5.6km)"),
+                  CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "2km |", Name_Text: " 4.5 (1.9km)"),
+                  CardCustom(name: "Humburgur", Images: "assets/humburger.png", NameText: "12km |", Name_Text: " 4.1 (2.6km)"),
                 
                   
                 ]),
